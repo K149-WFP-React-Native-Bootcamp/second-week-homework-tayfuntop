@@ -2,8 +2,7 @@
 
 ---
 
-<p align="center" ><img src="https://s4.gifyu.com/images/project.gif" height="750"></p>
-
+![Proje Gifi](/assets/project.gif)
 
 ![Proje Görseli](/assets/horizontal.jpeg)
 
